@@ -15,8 +15,6 @@
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-282a36?style=for-the-badge&amp;logo=Storybook"/>
 <img alt="JS" src="https://img.shields.io/badge/-javascript-282a36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
 <img alt="TS" src="https://img.shields.io/badge/-typescript-282a36?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6"/>
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-282a36?style=for-the-badge&amp;logo=php"/>
-<img alt="Laravel" src="https://img.shields.io/badge/-laravel-282a36?style=for-the-badge&amp;logo=laravel"/>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-282a36?style=for-the-badge&amp;logo=html5"/>
 <img alt="CSS" src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-282a36?style=for-the-badge&amp;logo=css3&amp;logoColor=3296D0"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap&nbsp;/&nbsp;material_ui-282a36?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=7952B3"/>
