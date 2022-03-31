@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vladislav
+### Hi there 👋, my name is Leonid
 
 #### I am React Frontend Developer
 
