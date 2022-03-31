@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TomatoVan&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 
-### Hi there 👋, I'm Leonid Kovzel,
+### Hi there 👋, I'm Leonid Kovzel
 Frontend Developer
 
 > Looking for a good specialist ? 👇
