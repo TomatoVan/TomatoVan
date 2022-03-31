@@ -1,4 +1,4 @@
-# 👋 Hi, I am Eugene Pashkevich. #
+# 👋 Hi, I am Leonid Kovzel. #
 ## 🧑‍💻 <ins>Front-end</ins> developer #
 ### 👀 I’m interested in web programming ###
 ### 🧑‍💻 I use **JavaScript**, **Typescript**, **React**, **Redux** and more ###  
