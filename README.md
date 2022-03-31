@@ -25,4 +25,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/-docker-282a36?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED"/>
 <img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
 <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
+## ⚔️ My CodeWars: ##
+![alt rank](https://www.codewars.com/users/pepeja13/badges/large)
 </div>
