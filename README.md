@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TomatoVan&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TomatoVan&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
 
 ### Hi there 👋, I'm Leonid Kovzel
 Frontend Developer
