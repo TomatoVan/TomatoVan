@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leokovzel/)
 <br>
 <br>
-### Skills:
+### Skills: <img align="right" src="https://www.codewars.com/users/pepeja13/badges/small">
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
@@ -27,6 +27,3 @@
 <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
   
   
-  ## ⚔️ My CodeWars: ##
-![alt rank](https://www.codewars.com/users/jhoffner/badges/small)
-</div>
