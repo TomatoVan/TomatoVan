@@ -1,7 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TomatoVan&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 
-### Hi there 👋, I'm Leonid Kovzel
-Frontend Developer
+### Hi there 👋, I'm Front-end Developer
 
 > Looking for a good specialist ? 👇
 ### Contacts:
@@ -29,5 +28,5 @@ Frontend Developer
   
   
   ## ⚔️ My CodeWars: ##
-![alt rank](https://www.codewars.com/users/pepeja13/badges/large)
+![alt rank](https://www.codewars.com/users/jhoffner/badges/small)
 </div>
