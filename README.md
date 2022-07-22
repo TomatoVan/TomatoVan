@@ -6,7 +6,10 @@
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram)](https://t.me/Leon1552)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leokovzel/)
-<img src="https://www.codewars.com/users/pepeja13/badges/small">
+<div style = "margin-top: 10px;">
+<img margin src="https://www.codewars.com/users/pepeja13/badges/small">
+</div>
+
 <br>
 <br>
 ### Skills: 
