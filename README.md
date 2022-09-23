@@ -11,6 +11,7 @@
 ### Skills: <a href='https://www.codewars.com/users/pepeja13' target="_blank"><img align="right" src="https://www.codewars.com/users/pepeja13/badges/small"></a> 
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
+<img alt="React Native" src="https://img.shields.io/badge/-react native-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-282a36?style=for-the-badge&amp;logo=Storybook"/>
 <img alt="JS" src="https://img.shields.io/badge/-javascript-282a36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
