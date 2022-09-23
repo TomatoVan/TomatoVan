@@ -11,12 +11,12 @@
 <br>
 ### Skills: <a href='https://www.codewars.com/users/pepeja13' target="_blank"><img align="right" src="https://www.codewars.com/users/pepeja13/badges/small"></a> 
 <div align="left">
+<img alt="React" src="https://img.shields.io/badge/-react / react native-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-282a36?style=for-the-badge&amp;logo=html5"/>
 <img alt="JS" src="https://img.shields.io/badge/-javascript-282a36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
 <img alt="TS" src="https://img.shields.io/badge/-typescript-282a36?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6"/>
 <img alt="CSS" src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-282a36?style=for-the-badge&amp;logo=css3&amp;logoColor=3296D0"/>
-<img alt="React" src="https://img.shields.io/badge/-react / react native-282a36?style=for-the-badge&amp;logo=react"/>
-<img alt="Redux" src="https://img.shields.io/badge/-redux / redux toolkit / redux thunk-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
+<img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
 <img alt="API" src="https://img.shields.io/badge/-rest_api-282a36?style=for-the-badge&amp;logo=fastapi&amp;logoColor=#009688"/>
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-282a36?style=for-the-badge&amp;logo=Storybook"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-282a36?style=for-the-badge&amp;logo=jest"/>
