@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-### Skills: <a href='https://www.codewars.com/users/pepeja13' target="_blank"><img align="right" src="https://www.codewars.com/users/pepeja13/badges/small"></a> 
+### Skills:  
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react / react native-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-282a36?style=for-the-badge&amp;logo=html5"/>
