@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomatoVan&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomatoVan&rank_icon=github&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=contribs,issues" />
 
 ### Hi there 👋, I'm Leonid Kovzel
 
